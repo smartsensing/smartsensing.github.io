@@ -1,2 +1,1 @@
-# smartsensing.github.io
-A research web portal
+# WiSens.github.io
